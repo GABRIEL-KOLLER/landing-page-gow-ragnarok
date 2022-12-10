@@ -10,3 +10,5 @@ e também a lib AOS animate para animação ao recarregar a página e todas as s
 - Java Script
 - Swiper.js
 - AOS animate
+
+Deploy: https://page-gow-ragnarok.netlify.app/
